@@ -1,0 +1,9 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  .card-body {
+    overflow-y: auto; /* Habilita el scroll solo en el contenido */
+    padding: 10px;
+  }
+  
